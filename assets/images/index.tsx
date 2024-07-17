@@ -1,0 +1,16 @@
+export const image1 = require('./venkat_1.png');
+export const image2 = require('./venkat_2.png');
+export const image3 = require('./venkat_3.png');
+export const image4 = require('./venkat_4.png');
+export const image5 = require('./venkat_5.png');
+export const image6 = require('./venkat_6.png');
+export const image7 = require('./venkat_7.png');
+export const image8 = require('./venkat_8.png');
+export const image9 = require('./venkat_9.png');
+export const image10 = require('./venkat_10.png');
+export const image11 = require('./venkat_11.png');
+export const image12 = require('./venkat_12.png');
+export const image13 = require('./venkat_13.png');
+export const image14 = require('./venkat_14.png');
+export const image15 = require('./venkat_15.png');
+export const image16 = require('./venkat_16.png');
